@@ -86,6 +86,11 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2021" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2021</h2>
 <ol reversed>
+ <li id="2021-1"> 
+    Identification of various food residuals on denim based on hyperspectral imaging system and combination optimal strategy <a href="https://www.sciencedirect.com/science/article/pii/S2589721721000209">[Paper]</a> <br> 
+    Yuzhen Chen, Ziyi Xu, Wencheng Tang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Douning Tang, Guangtao Zhai, Qingli Li<br>
+   <i><strong>Artificial Intelligence in Agriculture.</strong></i> 2021.
+   </li>
 </ol>
 
 <h2 id="pub2020" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2020</h2>
