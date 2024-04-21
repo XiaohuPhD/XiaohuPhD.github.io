@@ -95,7 +95,7 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 <h2>
   <a href="#pub2024"><u>2024</u></a>&nbsp;
 	<a href="#pub2023"><u>2023</u></a>&nbsp;
@@ -105,7 +105,7 @@ I am interested in <strong>Computer Vision and its applications in the fields of
   <a href="#arxiv"><u>arXiv</u></a>&nbsp;
   <a href="#challenges"><u>Challenges</u></a>&nbsp;
 </h2>
-<strong>*</strong> joint first author | <strong>#</strong> joint corresponding author <br> 
+<strong>*</strong> joint first author | <strong>#</strong> joint corresponding author | Please refer to Google Scholar for all publications. <br> 
 <!-- <strong>Summary:</strong> TPAMI (3) + CVPR (10)  -->
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
