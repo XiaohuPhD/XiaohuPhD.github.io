@@ -392,13 +392,13 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 # 💼 Served in Social Positions
 <strong>Journal Positions<strong>
-- Associate Editor in Chief of the SCI Journal <strong>Displays<strong>
-- Associate Editor in Chief of the SCI Journal <strong>International Journal of Agricultural and Biological Engineering <strong>
+- Associate Editor of the SCI Journal <strong>Displays<strong>
+- Associate Editor of the SCI Journal <strong>International Journal of Agricultural and Biological Engineering <strong>
 - Junior Editorial Board  Member in Chief of the SCI Journal <strong>Phenomics<strong>
-- Associate Editor in Chief of the SCI Journal <strong>Artificial Intelligence in Agriculture<strong>
+- Associate Editor of the SCI Journal <strong>Artificial Intelligence in Agriculture<strong>
 - Junior Editorial Board  Member in Chief of the Journal <strong>Journal of Agricultural Engineering<strong>
-- Associate Editor in Chief of the Journal <strong>Intelligence & Robotics<strong>
-- Review Editor in Chief of the SCI Journal <strong>Frontiers in Computational Neuroscience<strong>
+- Associate Editor of the Journal <strong>Intelligence & Robotics<strong>
+- Review Editor of the SCI Journal <strong>Frontiers in Computational Neuroscience<strong>
 
 <strong>Society Member</strong><br>
 Director of the Rehabilitation Assistance and Health Promotion Special Committee of the Shanghai Society of Image Graphics; IEEE Senior Member; Senior Member of the China Electronics Society; Member of the Chinese Society of Image Graphics; Member of Shanghai Electronics Society; Member of the Chinese Artificial Intelligence Society; Member of Shanghai Image and Graphics Society; Young member of China Agricultural engineering Society; Member of Shanghai System Simulation Society; Member of China Computer Federation; Member of the China Anti Cancer Association.
