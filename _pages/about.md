@@ -37,7 +37,8 @@ https://www.emojiall.com/zh-hans/all-cate
 -->
 
 
-<strong>Menghan Hu (胡孟晗)</strong> works as an Associate Professor and Ph.D. supervisor at School of Communication Electronic Engineering, East China Normal University, Shanghai. I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My major is Computer Vision and my research interests include:<br>
+<strong>Menghan Hu (胡孟晗)</strong> works as an Associate Professor and Ph.D. supervisor at School of Communication Electronic Engineering, East China Normal University, Shanghai. 
+I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang University, Hangzhou, China, under the supervision of [Prof. Yong Liu](https://april.zju.edu.cn/our-team). My major is Computer Vision and my research interests include:<br>
 🌱 GAN-/Diffusion-based AIGC researches with LLM, e.g., multi-modal image/video generation, 2D/3D virtual digital human related researches (3D face/body/hand reconstruction, multi-modal digital human drive, motion generation, etc.), text-to-image generation, multi-modal human-centric editing and generation, etc.<br>
 🌱 Neural Architecture Design (NAD), e.g., transformer-based architecture, light-wight vision model, etc.<br>
 🌱 Anomaly Classification and Segmentation.
@@ -419,7 +420,7 @@ https://www.emojiall.com/zh-hans/all-cate
 </ol>
 
 # 🎖 Honors and Awards
-- *2019* Shanghai Morning Glory Scholars. 
+- *2019* Shanghai Chenguang Scholars. 
 - *2019* Shanghai Yangfan Scholars.
 
 # 📖 Educations & Work
@@ -431,6 +432,19 @@ https://www.emojiall.com/zh-hans/all-cate
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+# 🔭 Projects
+Hosted or mainly participated in scientific research projects (excluding lateral projects of enterprises and institutions):
+- *2024.01 - 2027.12* National Natural Science Foundation of China (General Project), Ongoing, PI. 
+- *2020.01 - 2022.12* National Natural Science Foundation of China (Young Scientist Project), Completed, PI.
+- *2019.01 - 2023.12* National Natural Science Foundation of China (Key Project), Completed, Participant. 
+- *2023 - 2024* Shanghai Municipal Science and Technology Commission Science Popularization Project, Ongoing, Participant.
+- *2020 - 2021* Fast Response Project Subproject,  Completed, PI.
+- *2019 - 2022* Shanghai Municipal Science and Technology Commission Artificial Intelligence Innovation Development Project, Completed, PI.
+- *2021 - 2024* Chongqing Natural Science Foundation (General Project), Ongoing, PI.
+- *2019 - 2022* Shanghai Municipal Science and Technology Commission Yangfan Program, Completed, PI.
+- *2019 - 2022* Shanghai Municipal Education Commission Chenguang Project, Completed, PI.
+- *2016.08 - 2018.06* China Postdoctoral Science Foundation Funding Project (First-class funding), Completed, PI.
 
 # 🔬 Member of Research Group
 - *2019*

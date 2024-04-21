@@ -10,13 +10,15 @@ main:
     url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#-Honors-and-Awards"
 
   - title: "Educations & Work"
-    url: "/#-educations-&-work"
+    url: "/#-Educations-&-Work"
 
+  - title: "Projects"
+    url: "/#-Projects"
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
-  - title: "Member of Research Group"
-    url: "/#-member-of-research-group"
+  - title: " Member of Research Group"
+    url: "/#-Member-of-Research-Group"
