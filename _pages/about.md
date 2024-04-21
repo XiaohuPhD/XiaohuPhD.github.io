@@ -383,7 +383,7 @@ I am interested in <strong>Computer Vision and its applications in the fields of
   </li>
 </ol>
 
-# 🎖 Honors and Awards
+# 🎖 Honors
 - *2019* Shanghai Chen Guang Scholars
 - *2019* Shanghai Yang Fan Scholars
 
