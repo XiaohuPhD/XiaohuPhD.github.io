@@ -90,10 +90,15 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2020" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2020</h2>
 <ol reversed>
-  <li id="2020-1"> 
+  <li id="2020-3"> 
+    A Wavelet-Predominant Algorithm Can Evaluate Quality of THz Security Image and Identify Its Usability <a href="https://ieeexplore.ieee.org/abstract/document/8668693">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Menghan Hu*</span>, Guangtao Zhai, Rong Xie, Xiongkuo Min, Qingli Li, Xiaokang Yang, Wenjun Zhang<br>
+   <i>IEEE Transactions on Broadcasting. </i>2020.
+   </li>
+  <li id="2020-2"> 
     Detection of Respiratory Infections Using RGB-Infrared Sensors on Portable Device <a href="https://ieeexplore.ieee.org/abstract/document/9123889">[Paper]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Zheng Jiang*</span>,  <span style="color:#b02418; font-weight:bold;">Menghan Hu*</span>, Zhongpai Gao, Lei Fan, Ranran Dai, Yaling Pan, Wei Tang, Guangtao Zhai, Yong Lu<br>
-   <i>IEEE Internet of Things Journal <strong>(IoT J).</strong></i> 2020.
+   <i>IEEE Sensors Journal.</i> 2020.
    </li>
   <li id="2020-1"> 
     Unobtrusive and Automatic Classification of Multiple People’s Abnormal Respiratory Patterns in Real Time Using Deep Neural Network and Depth Camera <a href="https://ieeexplore.ieee.org/document/9082635">[Paper]</a> <br> 
