@@ -70,7 +70,7 @@ I am interested in <strong>Computer Vision and its applications in the fields of
   <a href="#arxiv"><u>arXiv</u></a>&nbsp;
   <a href="#challenges"><u>Challenges</u></a>&nbsp;
 </h2>
-<strong>*</strong> joint first author | <strong>#</strong> joint corresponding author | Please refer to Google Scholar for all publications. <br> 
+<strong>*</strong> joint first author | <strong>#</strong> corresponding author | Please refer to Google Scholar for all publications. <br> 
 <!-- <strong>Summary:</strong> TPAMI (3) + CVPR (10)  -->
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
@@ -317,20 +317,20 @@ I am interested in <strong>Computer Vision and its applications in the fields of
     Liang Liu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ruifei He, Yong Liu, Yabiao Wang, Ying Tai, Donghao Luo, Chengjie Wang, Jilin Li, and Feiyue Huang <br>
     <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2020.
   </li>
+  <li id="2020-3"> 
+    Non-local recoloring algorithm for color vision deficiencies with naturalness and detail preserving <a href="https://ieeexplore.ieee.org/abstract/document/9052977">[Paper]</a> <a href="https://github.com/zhangzjn/APB2Face">[Code]</a> <br> 
+    Yunlu Wang, Duo Li, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, <span style="color:#b02418; font-weight:bold;">Liming Cai#</span><br>
+   <i>Digital TV and Wireless Multimedia Communication: 16th International Forum <strong>(IFTC).</strong></i> 2020.
+  </li>
+  <li id="2020-2"> 
+    PMIQD 2019: A pathological microscopic image quality database with nonexpert and expert scores <a href="https://link.springer.com/chapter/10.1007/978-981-15-3341-9_25">[Paper]</a> <br> 
+    Shuning Xu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Wangyang Yu, Jianlin Feng, Qingli Li<br>
+     <i>Digital TV and Wireless Multimedia Communication: 16th International Forum <strong>(IFTC).</strong></i> 2020.
+  </li>
   <li id="2020-1"> 
-    APB2FACE: Audio-Guided Face Reenactment with Auxiliary Pose and Blink Signals <a href="https://ieeexplore.ieee.org/abstract/document/9052977">[Paper]</a> <a href="https://github.com/zhangzjn/APB2Face">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Liang Liu, Zhucun Xue, and Yong Liu <br>
-    <i>International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP).</strong></i> 2020.
-  </li>
-  <li id="2019-1"> 
-    Realistic Face Reenactment via Self-Supervised Disentangling of Identity and Pose <a href="https://ojs.aaai.org/index.php/AAAI/article/view/6970">[Paper]</a> <br> 
-    Xianfang Zeng, Yusu Pan, Mengmeng Wang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, and Yong Liu <br>
-    <i>Association for the Advancement of Artificial Intelligence <strong>(AAAI).</strong></i> 2020.
-  </li>
-  <li id="2018-1"> 
-    Learning-Based Hand Motion Capture and Understanding in Assembly Process <a href="https://ieeexplore.ieee.org/abstract/document/8566182">[Paper]</a> <br> 
-    Liang Liu, Yong Liu, and <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span> <br>
-    <i>Transactions on Industrial Electronics <strong>(TIE).</strong></i> 2018.
+    Preliminary study on visual attention maps of experts and nonexperts when examining pathological microscopic images <a href="https://link.springer.com/chapter/10.1007/978-981-15-3341-9_12">[Paper]</a> <br> 
+    Wangyang Yu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Shuning Xu, Qingli LiLiang<br>
+    <i>Digital TV and Wireless Multimedia Communication: 16th International Forum <strong>(IFTC).</strong></i> 2020.
   </li>
 </ol>
 
