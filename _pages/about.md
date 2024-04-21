@@ -446,7 +446,7 @@ I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang U
 - *2019 - 2022* Shanghai Municipal Education Commission Chenguang Project, Completed, PI.
 - *2016.08 - 2018.06* China Postdoctoral Science Foundation Funding Project (First-class funding), Completed, PI.
 
-# ✔️ Served in Social Positions
+# 💼 Served in Social Positions
 <strong>Journal Positions<strong>
 - Associate Editor in Chief of the SCI Journal <strong>Displays<strong>
 - Associate Editor in Chief of the SCI Journal <strong>International Journal of Agricultural and Biological Engineering <strong>
