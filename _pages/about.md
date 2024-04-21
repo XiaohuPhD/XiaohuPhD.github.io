@@ -44,12 +44,8 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 📌 GAN-/Diffusion-based AIGC researches, e.g., multi-modal image/video generation, multi-modal human-centric editing and generation, etc.<br>
 
 
-💬 Feel free to drop me emails (mhhu@ce.ecnu.edu.cn) if you have interests on above topics, and remote cooperations are welcomed.<br>
+💬 Feel free to drop me emails ( mhhu@ce.ecnu.edu.cn ) if you have interests on above topics, and remote cooperations are welcomed.<br>
 💬 If you are interested in my research topic and are currently applying for a master's/phD, feel free to contact me. I have a certain number of master's and PhD positions available annually.<br>
-
-📝 [Publications](https://zhangzjn.github.io/#-publications)
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
@@ -419,8 +415,8 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 </ol>
 
 # 🎖 Honors and Awards
-- *2019* Shanghai Chenguang Scholars
-- *2019* Shanghai Yangfan Scholars
+- *2019* Shanghai Chen Guang Scholars
+- *2019* Shanghai Yang Fan Scholars
 
 # 📖 Educations and Work
 - *2018.09 - Now*, Associate Professor in School of Communication Electronic Engineering, East China Normal University, Shanghai, China.
@@ -441,8 +437,8 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 - *2020 - 2021* Fast Response Project Subproject,  Completed, <strong>PI<strong>.
 - *2019 - 2022* Shanghai Municipal Science and Technology Commission Artificial Intelligence Innovation Development Project, Completed, <strong>PI<strong>.
 - *2021 - 2024* Chongqing Natural Science Foundation (General Project), Ongoing, <strong>PI<strong>.
-- *2019 - 2022* Shanghai Municipal Science and Technology Commission Yangfan Program, Completed, <strong>PI<strong>.
-- *2019 - 2022* Shanghai Municipal Education Commission Chenguang Project, Completed, <strong>PI<strong>.
+- *2019 - 2022* Shanghai Municipal Science and Technology Commission Yang Fan Talents Program, Completed, <strong>PI<strong>.
+- *2019 - 2022* Shanghai Municipal Education Commission Chen Guang Scholars Program, Completed, <strong>PI<strong>.
 - *2016.08 - 2018.06* China Postdoctoral Science Foundation Funding Project (First-class funding), Completed, <strong>PI<strong>.
 
 # 💼 Served in Social Positions
