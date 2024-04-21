@@ -461,7 +461,7 @@ Director of the Rehabilitation Assistance and Health Promotion Special Committee
 
 # 🔬 Members of Research Group
 <strong>2019</strong> <br>
-*2019*
+*2019* <br>
 <strong>2020</strong> <br>
 <strong>2021</strong> <br>
 <strong>2022</strong> <br>
