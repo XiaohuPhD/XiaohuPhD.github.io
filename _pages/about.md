@@ -78,7 +78,17 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2023" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2023</h2>
 <ol reversed>
- <li id="2023-8"> 
+ <li id="2023-10"> 
+   Is There a Difference between Paper and Electronic Chinese Signatures? <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aisy.202300439">[Paper]</a> <br> 
+   Ji-Feng Luo, Yun-Zhu Pu, Jie-Yang Yin, Xiaohong Liu, Tao Tan, Yudong Zhang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span><br>
+   <i><strong>Advanced Intelligent Systems.</strong></i> 2023.
+   </li>
+ <li id="2023-10"> 
+   Steganography for medical record image <a href="https://www.sciencedirect.com/science/article/pii/S0010482523008090">[Paper]</a> <br> 
+   Chunjun Hua, Yue Wu, Yiqiao Shi, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Rong Xie, Guangtao Zhai, Xiao-Ping Zhang<br>
+   <i><strong>Computers in Biology and Medicine.</strong></i> 2023.
+   </li>
+ <li id="2023-9"> 
    Auxiliary diagnosis of papillary thyroid carcinoma based on spectral phenotype <a href="https://link.springer.com/article/10.1007/s43657-023-00113-1">[Paper]</a> <br> 
    Bailiang Zhao, Yan Wang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Yue Wu, Jiannan Liu, Qingli Li, Min Dai, Wendell Q Sun, Guangtao Zhai<br>
    <i><strong>Phenomics.</strong></i> 2023.
