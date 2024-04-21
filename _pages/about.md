@@ -45,7 +45,7 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 
 💬 Feel free to drop me emails ( mhhu@ce.ecnu.edu.cn ) if you have interests on above topics, and remote cooperations are welcomed.<br>
-💬 If you are interested in my research topic and are currently applying for a master's/phD, feel free to contact me. I have a certain number of master's and PhD positions available annually.<br>
+💬 If you are interested in my research topic and are currently applying for a master's/PhD, feel free to contact me. I have a certain number of master's and PhD positions available annually.<br>
 
 
 # 🔥 News
