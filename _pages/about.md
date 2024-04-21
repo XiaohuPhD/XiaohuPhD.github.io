@@ -41,7 +41,7 @@ https://www.emojiall.com/zh-hans/all-cate
 I am interested in Computer Vision and its applications in the fields of Medicine and Agriculture:<br>
 📌 Intelligent Information Processing for Rehabilitation Medicine, e.g., Computer Vision-based Screening for Ophthalmic Diseases.<br>
 📌 Non-contact Physiological Signal Detection, e.g., Camera-based Algorithms for Predicting Respiration, Blood Oxygenation, and Heart Rate, etc.<br>
-📌 2D/3D virtual digital human related researches (3D face/body/hand reconstruction, multi-modal digital human drive, motion generation, etc.).<br>
+📌 GAN-/Diffusion-based AIGC researches, e.g., multi-modal image/video generation, multi-modal human-centric editing and generation, etc.<br>
 
 
 
