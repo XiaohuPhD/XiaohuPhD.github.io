@@ -78,6 +78,51 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2023" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2023</h2>
 <ol reversed>
+ <li id="2023-8"> 
+   Auxiliary diagnosis of papillary thyroid carcinoma based on spectral phenotype <a href="https://link.springer.com/article/10.1007/s43657-023-00113-1">[Paper]</a> <br> 
+   Bailiang Zhao, Yan Wang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Yue Wu, Jiannan Liu, Qingli Li, Min Dai, Wendell Q Sun, Guangtao Zhai<br>
+   <i><strong>Phenomics.</strong></i> 2023.
+   </li>
+ <li id="2023-8"> 
+   Glaucoma visual field quantification with eye tracker <a href="https://www.sciencedirect.com/science/article/pii/S0141938223000987">[Paper]</a> <br> 
+   Wangyang Yu, Jingyu Tang, Yudong Zhang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Yue Wu<br>
+   <i><strong>Displays.</strong></i> 2023.
+   </li>
+ <li id="2023-7"> 
+   Recent progress of optical imaging approaches for noncontact physiological signal measurement: A review <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aisy.202200345">[Paper]</a> <br> 
+   Xinxin Zhang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Yudong Zhang, Guangtao Zhai, Xiao-Ping Zhang<br>
+   <i><strong>Advanced Intelligent Systems.</strong></i> 2023.
+   </li>
+ <li id="2023-6"> 
+   CASCO: A Contactless Cough Screening System Based on Audio Signal Processing <a href="https://link.springer.com/chapter/10.1007/978-3-031-50078-7_23">[Paper]</a> <br> 
+   Xinxin Zhang, Hang Liu, Xinru Chen, Rui Qin, Yan Zhu, Wenfang Li, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Jian Zhang<br>
+   <i>Computer Graphics International Conference <strong>(CGI).</strong></i> 2023.
+   </li>
+ <li id="2023-5"> 
+   Cup-Disk Ratio Segmentation Joint with Key Retinal Vascular Information Under Diagnostic and Screening Scenarios <a href="https://link.springer.com/chapter/10.1007/978-3-031-50078-7_25">[Paper]</a> <br> 
+   Kuo Yang, Wenhao Jiang, Yiqiao Shi, Rui Qin, Wanli Bai, Duo Li, Yue Wu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span><br>
+   <i>Computer Graphics International Conference <strong>(CGI).</strong></i> 2023.
+   </li>
+ <li id="2023-4"> 
+   What are the actual needs of visually impaired people? <a href="https://www.sciencedirect.com/science/article/pii/S0141938223000446">[Paper]</a> <br> 
+   <span style="color:#b02418; font-weight:bold;">Menghan Hu*</span>, Qingyi Zhu, Lingjun Zhu<br>
+   <i><strong>Displays.</strong></i> 2023.
+   </li>
+ <li id="2023-3"> 
+   Lightweight video-based respiration rate detection algorithm: An application case on intensive care <a href="https://ieeexplore.ieee.org/abstract/document/10158936/">[Paper]</a> <br> 
+   Xudong Tan, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Guangtao Zhai, Yan Zhu, Wenfang Li, Xiao-Ping Zhangg<br>
+   <i>IEEE Transactions on Multimedia <strong>(TMM).</strong></i> 2023.
+   </li>
+ <li id="2023-2"> 
+   Unobtrusive respiratory monitoring system for intensive care <a href="https://ieeexplore.ieee.org/abstract/document/10095831/">[Paper]</a> <br> 
+   Xudong Tan, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Guangtao Zhai, Yan Zhu, Wenfang Li, XiaoPing Zhang<br>
+   <i>IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP).</strong></i> 2023.
+   </li>
+ <li id="2023-1"> 
+   Blind image quality assessment for pathological microscopic image under screen and immersion scenarios <a href="https://ieeexplore.ieee.org/abstract/document/10143288/">[Paper]</a> <br> 
+   Yifei Guo, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Xiongkuo Min, Yan Wang, Min Dai, Guangtao Zhai, Xiao-Ping Zhang, Xiaokang Yang<br>
+   <i>IEEE Transactions on Medical Imaging <strong>(TMI).</strong></i> 2023.
+   </li>
 </ol>
 
 <h2 id="pub2022" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2022</h2>
