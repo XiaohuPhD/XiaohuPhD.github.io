@@ -302,7 +302,17 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2020" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2020</h2>
 <ol reversed>
-  <li id="2020-7"> 
+  <li id="2020-10"> 
+    Calligraphy navigation system for blind people based on visual prosthesis on waist belt <a href="https://drive.google.com/file/d/1lsnj9cOnzfbQyIOOQdzb32lsmN7Z4yI2/view">[Paper]</a> <br> 
+    Hang Liu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Guodong Li, Qingli Li, Xiaofeng Zhou, Jian Zhang, Guangtao Zhai<br>
+   <i>IEEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
+  </li>
+  <li id="2020-9"> 
+    Convolutional Neural Networks Based on Residual Block for No-Reference Image Quality Assessment of Smartphone Camera Images <a href="https://ieeexplore.ieee.org/abstract/document/9106034">[Paper]</a> <br> 
+    Chang Yao, Yuri Lu, Hang Liu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Qingli Li<br>
+   <i>IEEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
+  </li>
+  <li id="2020-8"> 
     Multi-Indicator Image Quality Assessment of Smartphone Camera Based on Human Subjective Behavior And Perception <a href="https://ieeexplore.ieee.org/abstract/document/9105971/authors#authors">[Paper]</a> <br> 
     Yuwen Zhou, Yunlu Wang, <span style="color:#b02418; font-weight:bold;">Youyong Kong#</span>, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span><br>
    <i>IEEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
