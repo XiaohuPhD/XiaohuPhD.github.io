@@ -304,22 +304,22 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 <ol reversed>
   <li id="2020-7"> 
     Multi-Indicator Image Quality Assessment of Smartphone Camera Based on Human Subjective Behavior And Perception <a href="https://ieeexplore.ieee.org/abstract/document/9105971/authors#authors">[Paper]</a> <br> 
-    Yuwen Zhou, Yunlu Wang, <span style="color:#b02418; font-weight:bold;">Youyong Kong#</span>, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>
+    Yuwen Zhou, Yunlu Wang, <span style="color:#b02418; font-weight:bold;">Youyong Kong#</span>, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span><br>
    <i>IEEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
   </li>
   <li id="2020-6"> 
     Opinion-Unaware No-Reference Image Quality Assessment of Smartphone Camera Images Based on Aesthetics and Human Perception <a href="https://ieeexplore.ieee.org/abstract/document/9106048">[Paper]</a> <br> 
-    Zifeng Yuan, Yi Qi, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Qingli Li
+    Zifeng Yuan, Yi Qi, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Qingli Li<br>
    <i>IEEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
    </li>
   <li id="2020-5"> 
     Unobtrusive and Automatic Classification of Multiple People’s Abnormal Respiratory Patterns in Real Time Using Deep Neural Network and Depth Camera <a href="https://ieeexplore.ieee.org/document/9082635">[Paper]</a> <br> 
-    Yunlu Wang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Qingli Li, Xiao-Ping Zhang, Guangtao Zhai, Nan Yao
+    Yunlu Wang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Qingli Li, Xiao-Ping Zhang, Guangtao Zhai, Nan Yao<br>
    <i>IEEE Internet of Things Journal <strong>(IoT J).</strong></i> 2020.
    </li>
   <li id="2020-4"> 
     Estimating Departure Time Using Thermal Camera and Heat Traces Tracking Technique <a href="https://www.mdpi.com/1424-8220/20/3/782">[Paper]</a> <br> 
-    Ziyi Xu, Quchao Wang, Duo Li, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Nan Yao, Guangtao Zhai
+    Ziyi Xu, Quchao Wang, Duo Li, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Nan Yao, Guangtao Zhai<br>
    <i>Sensors.</i> 2020.
   </li>
   <li id="2020-3"> 
