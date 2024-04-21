@@ -43,10 +43,10 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 📌 Non-contact Physiological Signal Detection, e.g., Camera-based Algorithms for Predicting Respiration, Blood Oxygenation, and Heart Rate, etc.<br>
 📌 GAN-/Diffusion-based AIGC researches, e.g., multi-modal image/video generation, multi-modal human-centric editing and generation, etc.<br>
 
-
 💬 Feel free to drop me emails ( mhhu@ce.ecnu.edu.cn ) if you have interests on above topics, and remote cooperations are welcomed.<br>
 💬 If you are interested in my research topic and are currently applying for a master's/PhD, feel free to contact me. I have a certain number of master's and PhD positions available annually.<br>
 
+💖 I am endeavoring to pursue some fascinating endeavors.
 
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
