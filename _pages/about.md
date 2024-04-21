@@ -38,7 +38,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 
 <strong>Menghan Hu (胡孟晗)</strong> works as an Associate Professor and Ph.D. supervisor at School of Communication Electronic Engineering, East China Normal University, Shanghai. I’m also the Director of the Rehabilitation Assistance and Health Promotion Professional Committee of the Shanghai Society of Image and Graphics, and was selected for the Shanghai Chen Guang Scholars Program and the Shanghai Yangfan Talents Program in 2019. <br>
-I am interested in <strong>Computer Vision and its applications in the fields of Medicine and Agriculture:<strong/><br>
+I am interested in <strong>Computer Vision and its applications in the fields of Medicine and Agriculture:</strong><br>
 📌 Intelligent Information Processing for Rehabilitation Medicine, e.g., Computer Vision-based Screening for Ophthalmic Diseases.<br>
 📌 Non-contact Physiological Signal Detection, e.g., Camera-based Algorithms for Predicting Respiration, Blood Oxygenation, and Heart Rate, etc.<br>
 📌 GAN-/Diffusion-based AIGC researches, e.g., multi-modal image/video generation, multi-modal human-centric editing and generation, etc.<br>
@@ -52,7 +52,7 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
     <li><i>2018.09</i>: &nbsp;🎉🎉🎉 Working in an Associate Professor in School of Communication Electronic Engineering, East China Normal University.</li>
-    <li><i>2016.06</i>: &nbsp;🎉🎉🎉 Postdoctoral Researcher at Shanghai Jiao Tong University,under the supervision of <a href="https://scholar.google.com.hk/citations?user=E6zbSYgAAAAJ&hl=zh-CN">Prof. Guangtao Zhai</a>. </li>
+    <li><i>2016.06</i>: &nbsp;🎉🎉🎉 Postdoctoral Researcher at Shanghai Jiao Tong University, under the supervision of <a href="https://scholar.google.com.hk/citations?user=E6zbSYgAAAAJ&hl=zh-CN">Prof. Guangtao Zhai</a>. </li>
     <li><i>2016.06</i>: &nbsp;🎉🎉🎉 Pursuing Ph.D. in University of Shanghai for Science and Technology, under the supervision of Prof. Baolin Liu. </li>
   </ol>
 </div>
@@ -375,12 +375,7 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="challenges" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Challenges</h2>
 <ol reversed>
-  <li id="2018-1"> 
-    1st place for <a href="(https://codalab.lisn.upsaclay.fr/competitions/12499#results)">[Zero-shot Track]</a> and 4th place for <a href="(https://codalab.lisn.upsaclay.fr/competitions/12500#results)">[Few-shot Track]</a> in <a href="(https://sites.google.com/view/vand-cvpr23/home)">[Visual Anomaly and Novelty Detection (VAND) 2023 Challenge]</a> by <strong>CVPR 2023</strong> <br>
-    A Zero-/Few-Shot Anomaly Classification and Segmentation Method for CVPR 2023 VAND Workshop Challenge Tracks 1&2: 1st Place on Zero-shot AD and 4th Place on Few-shot AD <a href="https://arxiv.org/abs/2305.17382">[Paper]</a> <a href="https://github.com/ByChelsea/VAND-APRIL-GAN">[Code]</a> <br> 
-    Xuhai Chen*, Yue Han*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span> <br>
-    <i>Computer Vision and Pattern Recognition <strong>(CVPR)</strong> VAND.</i> 2023.
-  </li>
+  
 </ol>
 
 # 🎖 Honors
