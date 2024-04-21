@@ -37,17 +37,16 @@ https://www.emojiall.com/zh-hans/all-cate
 -->
 
 
-<strong>Menghan Hu (胡孟晗)</strong> works as an Associate Professor and Ph.D. supervisor at School of Communication Electronic Engineering, East China Normal University, Shanghai. I’m also the Director of the Rehabilitation Assistance and Health Promotion Professional Committee of the Shanghai Society of Image and Graphics, and was selected for the Shanghai Chen Guang Scholars Program in 2020 and the Shanghai Yangfan Talents Program in 2019. I am the Associate Editor of the SCI 2-zone journal Displays and the SCI 3-zone journal Int. J. Agr. Biol. Eng. <br>
-I am interested in Computer Vision and its applications in the fields of Medicine and Agriculture:<br>
+<strong>Menghan Hu (胡孟晗)</strong> works as an Associate Professor and Ph.D. supervisor at School of Communication Electronic Engineering, East China Normal University, Shanghai. I’m also the Director of the Rehabilitation Assistance and Health Promotion Professional Committee of the Shanghai Society of Image and Graphics, and was selected for the Shanghai Chen Guang Scholars Program in 2020 and the Shanghai Yangfan Talents Program in 2019. <br>
+I am interested in <strong>Computer Vision and its applications in the fields of Medicine and Agriculture:<strong/><br>
 📌 Intelligent Information Processing for Rehabilitation Medicine, e.g., Computer Vision-based Screening for Ophthalmic Diseases.<br>
 📌 Non-contact Physiological Signal Detection, e.g., Camera-based Algorithms for Predicting Respiration, Blood Oxygenation, and Heart Rate, etc.<br>
 📌 GAN-/Diffusion-based AIGC researches, e.g., multi-modal image/video generation, multi-modal human-centric editing and generation, etc.<br>
 
 
+💬 Feel free to drop me emails (mhhu@ce.ecnu.edu.cn) if you have interests on above topics, and remote cooperations are welcomed.<br>
+💬 If you are interested in my research topic and are currently applying for a master's/phD, feel free to contact me. I have a certain number of master's and PhD positions available annually.<br>
 
-💬 Feel free to drop me emails (186368@zju.edu.cn) if you have interests on above topics, and remote cooperations are welcomed.<br>
-💬 You can contact me if you are applying for a Research Intern or a B.S./Ph.D. student in computer vision / robotic perception, and I co-supervise students with [Prof. Yong Liu](https://april.zju.edu.cn/our-team) at Zhejiang University.<br>
-💖 I love 📷photography, 🍲cooking, and 🌏traveling, enjoy together!!!!!! <br>
 📝 [Publications](https://zhangzjn.github.io/#-publications)
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -461,7 +460,6 @@ Director of the Rehabilitation Assistance and Health Promotion Special Committee
 
 # 🔬 Members of Research Group
 <strong>2019</strong> <br>
-*2019* <br>
 <strong>2020</strong> <br>
 <strong>2021</strong> <br>
 <strong>2022</strong> <br>
