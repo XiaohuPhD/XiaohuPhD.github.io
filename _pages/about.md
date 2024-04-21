@@ -20,7 +20,7 @@ redirect_from:
 
 <!--
 ### Hi there 👋
-**zhangzjn/zhangzjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -68,7 +68,7 @@ I am interested in <strong>Computer Vision and its applications in the fields of
   <a href="#pub2021"><u>2021</u></a>&nbsp;
   <a href="#pub2020"><u>2020</u></a>&nbsp;
 </h2>
-<strong>*</strong> joint first author | <strong>#</strong> corresponding author | Please refer to Google Scholar for all publications. <br> 
+<strong>#</strong> corresponding author | Please refer to Google Scholar for all publications. <br> 
 <!-- <strong>Summary:</strong> TPAMI (3) + CVPR (10)  -->
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
