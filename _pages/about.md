@@ -420,8 +420,8 @@ I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang U
 </ol>
 
 # 🎖 Honors and Awards
-- *2019* Shanghai Chenguang Scholars. 
-- *2019* Shanghai Yangfan Scholars.
+- *2019* Shanghai Chenguang Scholars
+- *2019* Shanghai Yangfan Scholars
 
 # 📖 Educations & Work
 - *2018.09 - now*, Associate Professor in School of Communication Electronic Engineering, East China Normal University, Shanghai, China.
