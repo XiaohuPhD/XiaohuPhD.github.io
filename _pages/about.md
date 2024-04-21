@@ -90,6 +90,11 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2020" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2020</h2>
 <ol reversed>
+  <li id="2020-4"> 
+    Calligraphy navigation system for blind peoplebased on visual prosthesis on waist belt <a href="https://ieeexplore.ieee.org/abstract/document/8668693">[Paper]</a> <br> 
+    Hang Liu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Guodong Li, Qingli Li, Xiaofeng Zhou, Jian Zhang, Guangtao Zhai<br>
+   <i>IEEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
+   </li>
   <li id="2020-3"> 
     A Wavelet-Predominant Algorithm Can Evaluate Quality of THz Security Image and Identify Its Usability <a href="https://ieeexplore.ieee.org/abstract/document/8668693">[Paper]</a> <br> 
     <span style="color:#b02418; font-weight:bold;">Menghan Hu*</span>, Guangtao Zhai, Rong Xie, Xiongkuo Min, Qingli Li, Xiaokang Yang, Wenjun Zhang<br>
