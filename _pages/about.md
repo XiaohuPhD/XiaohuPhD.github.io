@@ -418,9 +418,9 @@ https://www.emojiall.com/zh-hans/all-cate
   </li>
 </ol>
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *2019* Shanghai Morning Glory Scholars. 
+- *2019* Shanghai Yangfan Scholars.  -->
 
 # 📖 Educations & Work
 - *2018.09 - now*, Associate Professor in School of Communication Electronic Engineering, East China Normal University, Shanghai, China.
