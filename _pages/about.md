@@ -73,12 +73,32 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
 <ol reversed>
+<li id="2024-4"> 
+   Xiaoqing: A Q&A model for glaucoma based on LLMs <a href="https://www.sciencedirect.com/science/article/pii/S0010482524004839">[Paper]</a> <br> 
+   Xiaojuan Xue, Deshiwei Zhang, Chengyang Sun, Yiqiao Shi, Rongsheng Wang, Tao Tan, Peng Gao, Sujie Fan, Guangtao Zhai, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Yue Wu<br>
+   <i><strong>Computers in Biology and Medicine.</strong></i> 2024.
+   </li>
+<li id="2024-3"> 
+   Prediction model of radiotherapy outcome for Ocular Adnexal Lymphoma using informative features selected by chemometric algorithms <a href="https://www.sciencedirect.com/science/article/pii/S0010482524001513">[Paper]</a> <br> 
+   Min Zhou, Jiaqi Wang, Jiahao Shi, Guangtao Zhai, Xiaowen Zhou, Lulu Ye, Lunhao Li, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Yixiong Zhou<br>
+   <i><strong>Computers in Biology and Medicine.</strong></i> 2024.
+   </li>
+<li id="2024-2"> 
+   Physiological characteristics inspired hidden human object detection model <a href="https://www.sciencedirect.com/science/article/pii/S0141938223002470">[Paper]</a> <br> 
+   <span style="color:#b02418; font-weight:bold;">Menghan Hu*</span>, Lejing Zhang, <span style="color:#b02418; font-weight:bold;">Bailiang Zhao*</span>, Yunlu Wang, Qingli Li, Lianghui Ding, Yuan Cao<br>
+   <i><strong>Displays.</strong></i> 2024.
+   </li>
+<li id="2024-1"> 
+   Low-cost and portable physiological signal monitor using PhysRate model <a href="https://www.sciencedirect.com/science/article/pii/S0141938223002391">[Paper]</a> <br> 
+   Xudong Tan, Yan Zhu, Zenghui Cheng, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Xinxin Zhang, Gan Pei, Chao Yu, Qingli Li, Wenfang Li, Jia Wang<br>
+   <i><strong>Displays.</strong></i> 2024.
+   </li>
 </ol>
 
 
 <h2 id="pub2023" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2023</h2>
 <ol reversed>
- <li id="2023-10"> 
+ <li id="2023-11"> 
    Is There a Difference between Paper and Electronic Chinese Signatures? <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aisy.202300439">[Paper]</a> <br> 
    Ji-Feng Luo, Yun-Zhu Pu, Jie-Yang Yin, Xiaohong Liu, Tao Tan, Yudong Zhang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span><br>
    <i><strong>Advanced Intelligent Systems.</strong></i> 2023.
