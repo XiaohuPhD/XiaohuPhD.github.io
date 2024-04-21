@@ -433,8 +433,6 @@ https://www.emojiall.com/zh-hans/all-cate
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 🔬 Member of Research Group
-<h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
-
 - *2019*
 - *2020*
 - *2021*
