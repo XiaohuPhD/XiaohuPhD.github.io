@@ -435,16 +435,16 @@ I am interested in Computer Vision and its applications in the fields of Medicin
 
 # 🔭 Projects
 <strong>Hosted or mainly participated in scientific research projects</strong> (excluding lateral projects of enterprises and institutions):
-- *2024.01 - 2027.12* National Natural Science Foundation of China (General Project), Ongoing, PI. 
-- *2020.01 - 2022.12* National Natural Science Foundation of China (Young Scientist Project), Completed, PI.
+- *2024.01 - 2027.12* National Natural Science Foundation of China (General Project), Ongoing, <strong>PI<strong>. 
+- *2020.01 - 2022.12* National Natural Science Foundation of China (Young Scientist Project), Completed, <strong>PI<strong>.
 - *2019.01 - 2023.12* National Natural Science Foundation of China (Key Project), Completed, Participant. 
 - *2023 - 2024* Shanghai Municipal Science and Technology Commission Science Popularization Project, Ongoing, Participant.
-- *2020 - 2021* Fast Response Project Subproject,  Completed, PI.
-- *2019 - 2022* Shanghai Municipal Science and Technology Commission Artificial Intelligence Innovation Development Project, Completed, PI.
-- *2021 - 2024* Chongqing Natural Science Foundation (General Project), Ongoing, PI.
-- *2019 - 2022* Shanghai Municipal Science and Technology Commission Yangfan Program, Completed, PI.
-- *2019 - 2022* Shanghai Municipal Education Commission Chenguang Project, Completed, PI.
-- *2016.08 - 2018.06* China Postdoctoral Science Foundation Funding Project (First-class funding), Completed, PI.
+- *2020 - 2021* Fast Response Project Subproject,  Completed, <strong>PI<strong>.
+- *2019 - 2022* Shanghai Municipal Science and Technology Commission Artificial Intelligence Innovation Development Project, Completed, <strong>PI<strong>.
+- *2021 - 2024* Chongqing Natural Science Foundation (General Project), Ongoing, <strong>PI<strong>.
+- *2019 - 2022* Shanghai Municipal Science and Technology Commission Yangfan Program, Completed, <strong>PI<strong>.
+- *2019 - 2022* Shanghai Municipal Education Commission Chenguang Project, Completed, <strong>PI<strong>.
+- *2016.08 - 2018.06* China Postdoctoral Science Foundation Funding Project (First-class funding), Completed, <strong>PI<strong>.
 
 # 💼 Served in Social Positions
 <strong>Journal Positions<strong>
