@@ -68,7 +68,7 @@ I am interested in <strong>Computer Vision and its applications in the fields of
   <a href="#pub2021"><u>2021</u></a>&nbsp;
   <a href="#pub2020"><u>2020</u></a>&nbsp;
 </h2>
-<strong>#</strong> corresponding author | Please refer to Google Scholar for all publications. <br> 
+<strong>*</strong> joint first author | <strong>#</strong> corresponding author | Please refer to Google Scholar for all publications. <br> 
 <!-- <strong>Summary:</strong> TPAMI (3) + CVPR (10)  -->
 
 <h2 id="pub2024" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
@@ -90,6 +90,11 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2020" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2020</h2>
 <ol reversed>
+  <li id="2020-1"> 
+    Detection of Respiratory Infections Using RGB-Infrared Sensors on Portable Device <a href="https://ieeexplore.ieee.org/abstract/document/9123889">[Paper]</a> <br> 
+    <span style="color:#b02418; font-weight:bold;">Zheng Jiang*</span>,  <span style="color:#b02418; font-weight:bold;">Menghan Hu*</span>, Zhongpai Gao, Lei Fan, Ranran Dai, Yaling Pan, Wei Tang, Guangtao Zhai, Yong Lu<br>
+   <i>IEEE Internet of Things Journal <strong>(IoT J).</strong></i> 2020.
+   </li>
   <li id="2020-1"> 
     Unobtrusive and Automatic Classification of Multiple People’s Abnormal Respiratory Patterns in Real Time Using Deep Neural Network and Depth Camera <a href="https://ieeexplore.ieee.org/document/9082635">[Paper]</a> <br> 
     Yunlu Wang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Qingli Li, Xiao-Ping Zhang, Guangtao Zhai, Nan Yao<br>
