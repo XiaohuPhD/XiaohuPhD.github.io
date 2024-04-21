@@ -460,8 +460,10 @@ I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang U
 Director of the Rehabilitation Assistance and Health Promotion Special Committee of the Shanghai Society of Image Graphics; IEEE Senior Member; Senior Member of the China Electronics Society; Member of the Chinese Society of Image Graphics; Member of Shanghai Electronics Society; Member of the Chinese Artificial Intelligence Society; Member of Shanghai Image and Graphics Society; Young member of China Agricultural engineering Society; Member of Shanghai System Simulation Society; Member of China Computer Federation; Member of the China Anti Cancer Association.
 
 # 🔬 Members of Research Group
-- *2019*
-- *2020*
-- *2021*
-- *2022*
-- *2023*
+<strong>2019</strong>
+*2019*
+<strong>2020</strong>
+<strong>2021</strong>
+<strong>2022</strong>
+<strong>2023</strong>
+
