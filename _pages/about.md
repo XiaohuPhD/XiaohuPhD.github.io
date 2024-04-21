@@ -424,7 +424,7 @@ I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang U
 - *2019* Shanghai Yangfan Scholars
 
 # 📖 Educations and Work
-- *2018.09 - now*, Associate Professor in School of Communication Electronic Engineering, East China Normal University, Shanghai, China.
+- *2018.09 - Now*, Associate Professor in School of Communication Electronic Engineering, East China Normal University, Shanghai, China.
 - *2016.06 - 2018.9*, Post-doc in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China. 
 - *2011.09 - 2016.06*, Obtained Ph.D. in Biomedical Engineering, University of Shanghai for Science and Technology, Shanghai, China.
 - *2007.09 - 2011.06*, Obtained B.S. in Food Science and Engineering, University of Shanghai for Science and Technology, Shanghai, China.
