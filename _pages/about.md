@@ -432,8 +432,9 @@ https://www.emojiall.com/zh-hans/all-cate
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 🔬 Research Group
-- *2020.12 - 2022.10*, YouTu Lab, Tencent, Shanghai, mentored by Researcher [Yabiao Wang](https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ) and [Dr. Ying Tai](https://tyshiwo.github.io/).
-- *2020.06 - 2020.10*, 2012 Lab, Huawei, Hangzhou.
-- *2019.07 - 2019.09*, Guangzi Technique Center, Tencent, Shenzhen.
-- *2019.04 - 2019.06*, Fuxi AI Lab, NetEase, Hangzhou.
+# 🔬 Member of Research Group
+- *2019*
+- *2020*
+- *2021*
+- *2022*
+- *2023*
