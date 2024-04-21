@@ -420,7 +420,7 @@ https://www.emojiall.com/zh-hans/all-cate
 
 # 🎖 Honors and Awards
 - *2019* Shanghai Morning Glory Scholars. 
-- *2019* Shanghai Yangfan Scholars.  -->
+- *2019* Shanghai Yangfan Scholars.
 
 # 📖 Educations & Work
 - *2018.09 - now*, Associate Professor in School of Communication Electronic Engineering, East China Normal University, Shanghai, China.
