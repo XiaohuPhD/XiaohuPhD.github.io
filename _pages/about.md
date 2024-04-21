@@ -300,66 +300,11 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2020" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2020</h2>
 <ol reversed>
-  <li id="2020-11"> 
-    Wearable visually assistive device for blind people to appreciate real-world scene and screen image <a href="https://ieeexplore.ieee.org/abstract/document/9301814/">[Paper]</a> <br> 
-    Jin Ai, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Guodong Li, Guangtao Zhai, Jian Zhang, Qingli Li, Wendell Q Sun<br>
-   <i>IEEE International Conference on Visual Communications and Image Processing <strong>(VCIP).</strong></i> 2020.
-  </li>
-  <li id="2020-11"> 
-    Special cane with visual odometry for real-time indoor navigation of blind people <a href="https://ieeexplore.ieee.org/abstract/document/9301782/">[Paper]</a> <br> 
-    Jingyu Tang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Guodong Li, Qingli Li, Jian Zhang, Xiaofeng Zhou, Guangtao Zhai<br>
-   <i>IEEE International Conference on Visual Communications and Image Processing <strong>(VCIP).</strong></i> 2020.
-  </li>
-  <li id="2020-10"> 
-    Calligraphy navigation system for blind people based on visual prosthesis on waist belt <a href="https://drive.google.com/file/d/1lsnj9cOnzfbQyIOOQdzb32lsmN7Z4yI2/view">[Paper]</a> <br> 
-    Hang Liu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Guodong Li, Qingli Li, Xiaofeng Zhou, Jian Zhang, Guangtao Zhai<br>
-   <i>IEEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
-  </li>
-  <li id="2020-10"> 
-    Calligraphy navigation system for blind people based on visual prosthesis on waist belt <a href="https://drive.google.com/file/d/1lsnj9cOnzfbQyIOOQdzb32lsmN7Z4yI2/view">[Paper]</a> <br> 
-    Hang Liu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Guodong Li, Qingli Li, Xiaofeng Zhou, Jian Zhang, Guangtao Zhai<br>
-   <i>IEEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
-  </li>
-  <li id="2020-9"> 
-    Convolutional Neural Networks Based on Residual Block for No-Reference Image Quality Assessment of Smartphone Camera Images <a href="https://ieeexplore.ieee.org/abstract/document/9106034">[Paper]</a> <br> 
-    Chang Yao, Yuri Lu, Hang Liu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Qingli Li<br>
-   <i>IEEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
-  </li>
-  <li id="2020-8"> 
-    Multi-Indicator Image Quality Assessment of Smartphone Camera Based on Human Subjective Behavior And Perception <a href="https://ieeexplore.ieee.org/abstract/document/9105971/authors#authors">[Paper]</a> <br> 
-    Yuwen Zhou, Yunlu Wang, <span style="color:#b02418; font-weight:bold;">Youyong Kong#</span>, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span><br>
-   <i>IEEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
-  </li>
-  <li id="2020-6"> 
-    Opinion-Unaware No-Reference Image Quality Assessment of Smartphone Camera Images Based on Aesthetics and Human Perception <a href="https://ieeexplore.ieee.org/abstract/document/9106048">[Paper]</a> <br> 
-    Zifeng Yuan, Yi Qi, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Qingli Li<br>
-   <i>IEEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
-   </li>
-  <li id="2020-5"> 
+  <li id="2020-1"> 
     Unobtrusive and Automatic Classification of Multiple People’s Abnormal Respiratory Patterns in Real Time Using Deep Neural Network and Depth Camera <a href="https://ieeexplore.ieee.org/document/9082635">[Paper]</a> <br> 
     Yunlu Wang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Qingli Li, Xiao-Ping Zhang, Guangtao Zhai, Nan Yao<br>
    <i>IEEE Internet of Things Journal <strong>(IoT J).</strong></i> 2020.
    </li>
-  <li id="2020-4"> 
-    Estimating Departure Time Using Thermal Camera and Heat Traces Tracking Technique <a href="https://www.mdpi.com/1424-8220/20/3/782">[Paper]</a> <br> 
-    Ziyi Xu, Quchao Wang, Duo Li, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Nan Yao, Guangtao Zhai<br>
-   <i>Sensors.</i> 2020.
-  </li>
-  <li id="2020-3"> 
-    Non-local recoloring algorithm for color vision deficiencies with naturalness and detail preserving <a href="https://ieeexplore.ieee.org/abstract/document/9052977">[Paper]</a> <br> 
-    Yunlu Wang, Duo Li, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, <span style="color:#b02418; font-weight:bold;">Liming Cai#</span><br>
-   <i>IEEE International Conference on Multimedia and Expo Workshops <strong>(IFTC).</strong></i> 2020.
-  </li>
-  <li id="2020-2"> 
-    PMIQD 2019: A pathological microscopic image quality database with nonexpert and expert scores <a href="https://link.springer.com/chapter/10.1007/978-981-15-3341-9_25">[Paper]</a> <br> 
-    Shuning Xu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Wangyang Yu, Jianlin Feng, Qingli Li<br>
-     <i>Digital TV and Wireless Multimedia Communication: 16th International Forum <strong>(IFTC).</strong></i> 2020.
-  </li>
-  <li id="2020-1"> 
-    Preliminary study on visual attention maps of experts and nonexperts when examining pathological microscopic images <a href="https://link.springer.com/chapter/10.1007/978-981-15-3341-9_12">[Paper]</a> <br> 
-    Wangyang Yu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Shuning Xu, Qingli LiLiang<br>
-    <i>Digital TV and Wireless Multimedia Communication: 16th International Forum <strong>(IFTC).</strong></i> 2020.
-  </li>
 </ol>
 
 
