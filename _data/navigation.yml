@@ -19,6 +19,8 @@ main:
     url: "/#-projects"
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
+  - title: "Served in Social Positions"
+    url: "/#-served-in-social-positions"
 
   - title: "Members of Research Group"
     url: "/#-members-of-research-group"

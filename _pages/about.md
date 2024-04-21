@@ -434,7 +434,7 @@ I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang U
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 🔭 Projects
-Hosted or mainly participated in scientific research projects (excluding lateral projects of enterprises and institutions):
+<strong>Hosted or mainly participated in scientific research projects<strong> (excluding lateral projects of enterprises and institutions):
 - *2024.01 - 2027.12* National Natural Science Foundation of China (General Project), Ongoing, PI. 
 - *2020.01 - 2022.12* National Natural Science Foundation of China (Young Scientist Project), Completed, PI.
 - *2019.01 - 2023.12* National Natural Science Foundation of China (Key Project), Completed, Participant. 
@@ -446,7 +446,11 @@ Hosted or mainly participated in scientific research projects (excluding lateral
 - *2019 - 2022* Shanghai Municipal Education Commission Chenguang Project, Completed, PI.
 - *2016.08 - 2018.06* China Postdoctoral Science Foundation Funding Project (First-class funding), Completed, PI.
 
-# ✔️ 
+# ✔️ Served in Social Positions
+<strong>Journal Positions<strong>
+- Associate Editor in Chief of the SCI Journal <strong>Displays<strong>
+- Associate Editor in Chief of the SCI Journal <strong>International Journal of Agricultural and Biological Engineering <strong>
+
 
 # 🔬 Members of Research Group
 - *2019*
