@@ -82,6 +82,16 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2022" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2022</h2>
 <ol reversed>
+ <li id="2022-2"> 
+   Automatic image analysis of episcleral hemangioma applied to the prognosis prediction of trabeculotomy in Sturge–Weber syndrome <a href="https://www.sciencedirect.com/science/article/pii/S0141938221001207">[Paper]</a> <br> 
+   Lejing Zhang, Yue Wu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Wenyi Guo<br>
+   <i><strong>Displays.</strong></i> 2022.
+   </li>
+ <li id="2022-1"> 
+   Encoding multiple information into european article number (ean)‐13 codes with various chromic sensing materials to construct intelligent barcodes <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aisy.202100113">[Paper]</a> <br> 
+   Hui Guan, Hang Liu, Qia Zhang, Jingyu Tang, Jianxiong Zou, Ling Kang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Jian Zhang<br>
+   <i><strong>Advanced Intelligent Systems.</strong></i> 2022.
+   </li>
 </ol>
 
 <h2 id="pub2021" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2021</h2>
