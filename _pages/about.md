@@ -86,6 +86,21 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2021" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2021</h2>
 <ol reversed>
+ <li id="2021-4"> 
+   A new bio-inspired metric based on eye movement data for classifying ASD and typically developing children <a href="https://www.sciencedirect.com/science/article/pii/S0923596521000242">[Paper]</a> <br> 
+   Shuning Xu, Junbing Yan, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span><br>
+   <i><strong>Signal Processing: Image Communication.</strong></i> 2021.
+   </li>
+ <li id="2021-3"> 
+   Respiratory consultant by your side: Affordable and remote intelligent respiratory rate and respiratory pattern monitoring system <a href="https://ieeexplore.ieee.org/abstract/document/9403370/">[Paper]</a> <br> 
+   Yunlu Wang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Chaohua Yang, Na Li, Jian Zhang, Qingli Li, Guangtao Zhai, Simon X Yang, Xiao-Ping Zhang, Xiaokang Yang<br>
+   <i>IEEE Internet of Things Journal <strong>(IoT J).</strong></i> 2021.
+   </li>
+ <li id="2021-2"> 
+    Face mask assistant: Detection of face mask service stage based on mobile phone <a href="https://ieeexplore.ieee.org/abstract/document/9360639/">[Paper]</a> <br> 
+    Yuzhen Chen, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Chunjun Hua, Guangtao Zhai, Jian Zhang, Qingli Li, Simon X Yang<br>
+   <i><strong>IEEE Sensors Journal.</strong></i> 2021.
+   </li>
  <li id="2021-1"> 
     Identification of various food residuals on denim based on hyperspectral imaging system and combination optimal strategy <a href="https://www.sciencedirect.com/science/article/pii/S2589721721000209">[Paper]</a> <br> 
     Yuzhen Chen, Ziyi Xu, Wencheng Tang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Douning Tang, Guangtao Zhai, Qingli Li<br>
