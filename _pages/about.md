@@ -302,6 +302,21 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2020" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2020</h2>
 <ol reversed>
+  <li id="2020-11"> 
+    Wearable visually assistive device for blind people to appreciate real-world scene and screen image <a href="https://ieeexplore.ieee.org/abstract/document/9301814/">[Paper]</a> <br> 
+    Jin Ai, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Guodong Li, Guangtao Zhai, Jian Zhang, Qingli Li, Wendell Q Sun<br>
+   <i>IEEE International Conference on Visual Communications and Image Processing <strong>(VCIP).</strong></i> 2020.
+  </li>
+  <li id="2020-11"> 
+    Special cane with visual odometry for real-time indoor navigation of blind people <a href="https://ieeexplore.ieee.org/abstract/document/9301782/">[Paper]</a> <br> 
+    Jingyu Tang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Guodong Li, Qingli Li, Jian Zhang, Xiaofeng Zhou, Guangtao Zhai<br>
+   <i>IEEE International Conference on Visual Communications and Image Processing <strong>(VCIP).</strong></i> 2020.
+  </li>
+  <li id="2020-10"> 
+    Calligraphy navigation system for blind people based on visual prosthesis on waist belt <a href="https://drive.google.com/file/d/1lsnj9cOnzfbQyIOOQdzb32lsmN7Z4yI2/view">[Paper]</a> <br> 
+    Hang Liu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Guodong Li, Qingli Li, Xiaofeng Zhou, Jian Zhang, Guangtao Zhai<br>
+   <i>IEEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
+  </li>
   <li id="2020-10"> 
     Calligraphy navigation system for blind people based on visual prosthesis on waist belt <a href="https://drive.google.com/file/d/1lsnj9cOnzfbQyIOOQdzb32lsmN7Z4yI2/view">[Paper]</a> <br> 
     Hang Liu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Guodong Li, Qingli Li, Xiaofeng Zhou, Jian Zhang, Guangtao Zhai<br>
