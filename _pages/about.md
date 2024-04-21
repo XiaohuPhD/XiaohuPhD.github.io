@@ -294,33 +294,33 @@ I am interested in <strong>Computer Vision and its applications in the fields of
     <i>Transactions on Neural Networks and Learning Systems <strong>(TNNLS).</strong></i> 2021.
   </li>
   <li id="2021-1"> 
-    RFNet: Recurrent Forward Network for Dense Point Cloud Completion <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.html">[Paper]</a> <a href="https://github.com/Tianxinhuang/RFNet">[Code]</a> <br> 
+    Face Mask Assistant: Detection of Face Mask Service Stage Based on Mobile Phone <a href="https://ieeexplore.ieee.org/abstract/document/9360639">[Paper]</a> <a href="https://github.com/Tianxinhuang/RFNet">[Code]</a> <br> 
     Tianxin Huang, Hao Zou, Jinhao Cui, Xuemeng Yang, Mengmeng Wang, Xiangrui Zhao, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Yi Yuan, Yifan Xu, and Yong Liu <br>
-    <i>International Conference on Computer Vision <strong>(ICCV).</strong></i> 2021.
+    <i>IEEE Sensors Journal.</i> 2021.
   </li>
 </ol>
 
 <h2 id="pub2020" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2020</h2>
 <ol reversed>
+  <li id="2020-6"> 
+    Opinion-Unaware No-Reference Image Quality Assessment of Smartphone Camera Images Based on Aesthetics and Human Perception <a href="https://ieeexplore.ieee.org/abstract/document/9106048">[Paper]</a> 
+    Zifeng Yuan, Yi Qi, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Qingli Li
+   <i>EEE International Conference on Multimedia & Expo Workshops <strong>(ICMEW).</strong></i> 2020.
+   </li>
+  <li id="2020-5"> 
+    Unobtrusive and Automatic Classification of Multiple People’s Abnormal Respiratory Patterns in Real Time Using Deep Neural Network and Depth Camera <a href="https://ieeexplore.ieee.org/document/9082635">[Paper]</a> 
+    Yunlu Wang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Qingli Li, Xiao-Ping Zhang, Guangtao Zhai, Nan Yao
+   <i>IEEE Internet of Things Journal <strong>(IoT J).</strong></i> 2020.
+   </li>
   <li id="2020-4"> 
-    DTVNet: Dynamic Time-Lapse Video Generation via Single Still Image <a href="https://link.springer.com/chapter/10.1007/978-3-030-58558-7_18">[Paper]</a> <a href="https://github.com/zhangzjn/DTVNet">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Chao Xu*, Liang Liu, Mengmeng Wang, Xia Wu, Yong Liu, and Yunliang Jiang <br>
-    <i>European Conference on Computer Vision <strong>(ECCV).</strong></i> 2020.
+    Estimating Departure Time Using Thermal Camera and Heat Traces Tracking Technique <a href="https://www.mdpi.com/1424-8220/20/3/782">[Paper]</a> 
+    Ziyi Xu, Quchao Wang, Duo Li, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Nan Yao, Guangtao Zhai
+   <i>Sensors.</i> 2020.
   </li>
   <li id="2020-3"> 
-    FReeNet: Multi-Identity Face Reenactment <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_FReeNet_Multi-Identity_Face_Reenactment_CVPR_2020_paper.html">[Paper]</a> <a href="https://github.com/zhangzjn/FReeNet">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xianfang Zeng, Mengmeng Wang, Yusu Pan, Liang Liu, Yong Liu, Yu Ding, and Changjie Fan <br>
-    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2020.
-  </li>
-  <li id="2020-2"> 
-    Learning by Analogy: Reliable Supervision From Transformations for Unsupervised Optical Flow Estimation <a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Learning_by_Analogy_Reliable_Supervision_From_Transformations_for_Unsupervised_Optical_CVPR_2020_paper.html">[Paper]</a> <a href="https://github.com/lliuz/ARFlow">[Code]</a> <br> 
-    Liang Liu, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ruifei He, Yong Liu, Yabiao Wang, Ying Tai, Donghao Luo, Chengjie Wang, Jilin Li, and Feiyue Huang <br>
-    <i>Computer Vision and Pattern Recognition <strong>(CVPR).</strong></i> 2020.
-  </li>
-  <li id="2020-3"> 
-    Non-local recoloring algorithm for color vision deficiencies with naturalness and detail preserving <a href="https://ieeexplore.ieee.org/abstract/document/9052977">[Paper]</a> <a href="https://github.com/zhangzjn/APB2Face">[Code]</a> <br> 
+    Non-local recoloring algorithm for color vision deficiencies with naturalness and detail preserving <a href="https://ieeexplore.ieee.org/abstract/document/9052977">[Paper]</a> 
     Yunlu Wang, Duo Li, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, <span style="color:#b02418; font-weight:bold;">Liming Cai#</span><br>
-   <i>Digital TV and Wireless Multimedia Communication: 16th International Forum <strong>(IFTC).</strong></i> 2020.
+   <i>IEEE International Conference on Multimedia and Expo Workshops <strong>(IFTC).</strong></i> 2020.
   </li>
   <li id="2020-2"> 
     PMIQD 2019: A pathological microscopic image quality database with nonexpert and expert scores <a href="https://link.springer.com/chapter/10.1007/978-981-15-3341-9_25">[Paper]</a> <br> 
