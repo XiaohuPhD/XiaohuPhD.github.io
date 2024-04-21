@@ -67,8 +67,6 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 	<a href="#pub2022"><u>2022</u></a>&nbsp;
   <a href="#pub2021"><u>2021</u></a>&nbsp;
   <a href="#pub2020"><u>2020</u></a>&nbsp;
-  <a href="#arxiv"><u>arXiv</u></a>&nbsp;
-  <a href="#challenges"><u>Challenges</u></a>&nbsp;
 </h2>
 <strong>*</strong> joint first author | <strong>#</strong> corresponding author | Please refer to Google Scholar for all publications. <br> 
 <!-- <strong>Summary:</strong> TPAMI (3) + CVPR (10)  -->
@@ -364,49 +362,6 @@ I am interested in <strong>Computer Vision and its applications in the fields of
   </li>
 </ol>
 
-<h2 id="arxiv" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">arXiv</h2>
-<ol reversed>
-  <li id="arxiv"> 
-    PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization <a href="https://arxiv.org/abs/2312.06354">[Paper]</a> <br> 
-    Xu Peng, Junwei Zhu, Boyuan Jiang, Ying Tai, Donghao Luo, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Wei Lin, Taisong Jin, Chengjie Wang, Rongrong Ji <br>
-    <i><strong>arXiv.</strong></i> 2023, 2312.06354.
-  </li>
-  <li id="arxiv"> 
-    Exploring Plain ViT Reconstruction for Multi-class Unsupervised Anomaly Detection <a href="https://arxiv.org/abs/2312.07495">[Paper]</a> <a href="https://github.com/zhangzjn/ADer">[Code]</a> <a href="https://zhangzjn.github.io/projects/ViTAD/">[Project]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xuhai Chen, Yabiao Wang, Chengjie Wang, Yong Liu, Xiangtai Li, Ming-Hsuan Yang, Dacheng Tao <br>
-    <i><strong>arXiv.</strong></i> 2023, 2312.07495.
-  </li>
-  <li id="arxiv"> 
-    Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2311.02612">[Paper]</a> <a href="https://github.com/zhangzjn/GPT-4V-AD">[Code]</a> <br> 
-    <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Xuhai Chen, Zhucun Xue, Yabiao Wang, Chengjie Wang, and Yong Liu <br>
-    <i><strong>arXiv.</strong></i> 2023, 2311.02612.
-  </li>
-  <li id="arxiv"> 
-    CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection <a href="https://arxiv.org/abs/2311.00453">[Paper]</a> <br> 
-    Xuhai Chen*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, Yunsheng Wu, and Yong Liu <br>
-    <i><strong>arXiv.</strong></i> 2023, 2311.00453.
-  </li>
-  <li id="arxiv"> 
-    Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator <a href="https://arxiv.org/abs/2305.02594">[Paper]</a> <br> 
-    Chao Xu, Shaoting Zhu, Junwei Zhu, Tianxin Huang, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang</span>, Ying Tai, and Yong Liu <br>
-    <i><strong>arXiv.</strong></i> 2023, 2305.02594.
-  </li>
-  <li id="arxiv"> 
-    Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation <a href="https://arxiv.org/abs/2301.01156">[Paper]</a> <a href="https://github.com/hanyue1648/RefT">[Code]</a> <br> 
-    Yue Han*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Zhucun Xue, Chao Xu, Xintian Shen, Yabiao Wang, Chengjie Wang, Yong Liu, and Xiangtai Li <br>
-    <i><strong>arXiv.</strong></i> 2022, 2301.01156.
-  </li>
-  <li id="arxiv"> 
-    SelFSR: Self-Conditioned Face Super-Resolution in the Wild via Flow Field Degradation Network <a href="https://arxiv.org/abs/2112.10683">[Paper]</a> <br> 
-    Xianfang Zeng*, <span style="color:#b02418; font-weight:bold;">Jiangning Zhang*</span>, Liang Liu, Guangzhong Tian, and Yong Liu <br>
-    <i><strong>arXiv.</strong></i> 2021, 2112.10683.
-  </li>
-</ol>
-
-<h2 id="challenges" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">Challenges</h2>
-<ol reversed>
-  
-</ol>
 
 # 🎖 Honors
 - *2019* Shanghai Chen Guang Scholars
