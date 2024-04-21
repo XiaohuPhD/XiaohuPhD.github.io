@@ -448,13 +448,13 @@ I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang U
 
 # 💼 Served in Social Positions
 <strong>Journal Positions<strong>
-- Associate Editor in Chief of the SCI Journal <strong>Displays<\strong>
-- Associate Editor in Chief of the SCI Journal <strong>International Journal of Agricultural and Biological Engineering <\strong>
-- Junior Editorial Board  Member in Chief of the SCI Journal <strong>Phenomics<\strong>
-- Associate Editor in Chief of the SCI Journal <strong>Artificial Intelligence in Agriculture<\strong>
-- Junior Editorial Board  Member in Chief of the Journal <strong>Journal of Agricultural Engineering<\strong>
-- Associate Editor in Chief of the Journal <strong>Intelligence & Robotics<\strong>
-- Review Editor in Chief of the SCI Journal <strong>Frontiers in Computational Neuroscience<\strong>
+- Associate Editor in Chief of the SCI Journal <strong>Displays<strong>
+- Associate Editor in Chief of the SCI Journal <strong>International Journal of Agricultural and Biological Engineering <strong>
+- Junior Editorial Board  Member in Chief of the SCI Journal <strong>Phenomics<strong>
+- Associate Editor in Chief of the SCI Journal <strong>Artificial Intelligence in Agriculture<strong>
+- Junior Editorial Board  Member in Chief of the Journal <strong>Journal of Agricultural Engineering<strong>
+- Associate Editor in Chief of the Journal <strong>Intelligence & Robotics<strong>
+- Review Editor in Chief of the SCI Journal <strong>Frontiers in Computational Neuroscience<strong>
 
 
 # 🔬 Members of Research Group
