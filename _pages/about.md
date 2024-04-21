@@ -82,6 +82,16 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2022" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2022</h2>
 <ol reversed>
+ <li id="2022-4"> 
+   Soluble solids content binary classification of miyagawa satsuma in chongming island based on near infrared spectroscopy <a href="https://www.frontiersin.org/articles/10.3389/fpls.2022.841452/full">[Paper]</a> <br> 
+   Yuzhen Chen, Wanxia Sun, Songtao Jiu, Lei Wang, Bohan Deng, Zili Chen, Fei Jiang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Caixi Zhang<br>
+   <i>Frontiers in Plant Science <strong>(FPLS).</strong></i> 2022.
+   </li>
+ <li id="2022-3"> 
+   Angels girl for blind painters: an efficient painting navigation system validated by multimodal evaluation approach <a href="https://ieeexplore.ieee.org/abstract/document/9695330/">[Paper]</a> <br> 
+   Hang Liu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Yuzhen Chen, Qingli Li, Guangtao Zhai, Simon X Yang, Xiao-Ping Zhang, Xiaokang Yang<br>
+   <i>IEEE Transactions on Multimedia <strong>(TMM).</strong></i> 2022.
+   </li>
  <li id="2022-2"> 
    Automatic image analysis of episcleral hemangioma applied to the prognosis prediction of trabeculotomy in Sturge–Weber syndrome <a href="https://www.sciencedirect.com/science/article/pii/S0141938221001207">[Paper]</a> <br> 
    Lejing Zhang, Yue Wu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Wenyi Guo<br>
