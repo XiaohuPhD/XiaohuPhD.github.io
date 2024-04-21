@@ -422,16 +422,17 @@ https://www.emojiall.com/zh-hans/all-cate
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2020.04 - 2022.10*, M.D. 👉️ Ph.D. in College of Control Science and Engineering, Zhejiang University, Hangzhou, China. 
-- *2017.09 - 2020.04*, Pursuing M.D. in College of Control Science and Engineering, Zhejiang University, Hangzhou, China.
-- *2013.09 - 2017.06*, Obtained B.S. in Electronic Information School, Wuhan University, Wuhan, China.
+# 📖 Educations & Work
+- *2018.09 - now*, Associate Professor in School of Communication Electronic Engineering, East China Normal University, Shanghai, China.
+- *2016.06 - 2018.9*, Post-doc in School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China. 
+- *2011.09 - 2016.06*, Obtained Ph.D. in Biomedical Engineering, University of Shanghai for Science and Technology, Shanghai, China.
+- *2007.09 - 2011.06*, Obtained B.S. in Food Science and Engineering, University of Shanghai for Science and Technology, Shanghai, China.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+# 🔬 Research Group
 - *2020.12 - 2022.10*, YouTu Lab, Tencent, Shanghai, mentored by Researcher [Yabiao Wang](https://scholar.google.com.hk/citations?hl=zh-CN&user=xiK4nFUAAAAJ) and [Dr. Ying Tai](https://tyshiwo.github.io/).
 - *2020.06 - 2020.10*, 2012 Lab, Huawei, Hangzhou.
 - *2019.07 - 2019.09*, Guangzi Technique Center, Tencent, Shenzhen.

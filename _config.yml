@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiangning Zhang"
-description              : "AIGC \nVirtual Digital Human \nIndustry Detection"
-repository               : "zhangzjn/zhangzjn.github.io"
+title                    : "Menghan Hu"
+description              : "Signal Processing \nMedical Imaging \nHyperspectral Imaging \nImage Processing \nAgricultural"
+repository               : "XiaohuPhD/XiaohuPhD.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiangning Zhang"
-  avatar           : "images/zhangzjn-512x512.png"
-  bio              : "Photograph by my loved wife: Ms. Xue"  # "Ph.D. under Zhejiang University"   fiancee -> wife, 2023.10.02
+  name             : "Menghan Hu"
+  avatar           : "images/humenghan.jpg"
+  bio              : "Associate Professor in East China Normal University"  # "Ph.D. under Zhejiang University"   fiancee -> wife, 2023.10.02
   location         : "Shanghai, China"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=2hA4X9wAAAAJ&hl=zh-CN"
-  email            : "186368@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=8-Vo9cUAAAAJ&hl=zh-CN"
+  email            : "mhhu@ce.ecnu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhangzjn"
+  github           : "XiaohuPhD"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/241/9593.html"
+#  dblp             : "https://dblp.org/pid/241/9593.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
