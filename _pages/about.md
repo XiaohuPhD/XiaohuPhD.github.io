@@ -37,7 +37,7 @@ https://www.emojiall.com/zh-hans/all-cate
 -->
 
 
-<strong>Menghan Hu (胡孟晗)</strong> works as an Associate Professor and Ph.D. supervisor at School of Communication Electronic Engineering, East China Normal University, Shanghai. I’m also the Director of the Rehabilitation Assistance and Health Promotion Professional Committee of the Shanghai Society of Image and Graphics, and was selected for the Shanghai Chen Guang Scholars Program in 2020 and the Shanghai Yangfan Talents Program in 2019. <br>
+<strong>Menghan Hu (胡孟晗)</strong> works as an Associate Professor and Ph.D. supervisor at School of Communication Electronic Engineering, East China Normal University, Shanghai. I’m also the Director of the Rehabilitation Assistance and Health Promotion Professional Committee of the Shanghai Society of Image and Graphics, and was selected for the Shanghai Chen Guang Scholars Program and the Shanghai Yangfan Talents Program in 2019. <br>
 I am interested in <strong>Computer Vision and its applications in the fields of Medicine and Agriculture:<strong/><br>
 📌 Intelligent Information Processing for Rehabilitation Medicine, e.g., Computer Vision-based Screening for Ophthalmic Diseases.<br>
 📌 Non-contact Physiological Signal Detection, e.g., Camera-based Algorithms for Predicting Respiration, Blood Oxygenation, and Heart Rate, etc.<br>
