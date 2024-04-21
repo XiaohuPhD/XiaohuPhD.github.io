@@ -86,6 +86,21 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 
 <h2 id="pub2021" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2021</h2>
 <ol reversed>
+ <li id="2021-7"> 
+   Low-cost and unobtrusive respiratory condition monitoring based on raspberry pi and recurrent neural network <a href="https://ieeexplore.ieee.org/abstract/document/9401084/">[Paper]</a> <br> 
+   Yunlu Wang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Chaohua Yang, Na Li, Jian Zhang, Qingli Li, Guangtao Zhai, Simon X Yang<br>
+   <i> IEEE International Symposium on Circuits and Systems <strong>(ISCAS).</strong></i> 2021.
+   </li>
+ <li id="2021-6"> 
+   Identification of deep breath while moving forward based on multiple body regions and graph signal analysis <a href="https://ieeexplore.ieee.org/abstract/document/9413546/">[Paper]</a> <br> 
+   Yunlu Wang, Cheng Yang, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Jian Zhang, Qingli Li, Guangtao Zhai, Xiao-Ping Zhang<br>
+   <i> IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP).</strong></i> 2021.
+   </li>
+ <li id="2021-5"> 
+   Design and optimization of an assistive cane with visual odometry for blind people to detect obstacles with hollow section <a href="https://ieeexplore.ieee.org/abstract/document/9548934/">[Paper]</a> <br> 
+   Jingyu Tang, Mingze Sun, Lingjun Zhu, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span>, Mei Zhou, Jian Zhang, Qingli Li, Guangtao Zhai<br>
+   <i><strong>IEEE Sensors Journal.</strong></i> 2021.
+   </li>
  <li id="2021-4"> 
    A new bio-inspired metric based on eye movement data for classifying ASD and typically developing children <a href="https://www.sciencedirect.com/science/article/pii/S0923596521000242">[Paper]</a> <br> 
    Shuning Xu, Junbing Yan, <span style="color:#b02418; font-weight:bold;">Menghan Hu#</span><br>
