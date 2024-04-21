@@ -446,7 +446,7 @@ Hosted or mainly participated in scientific research projects (excluding lateral
 - *2019 - 2022* Shanghai Municipal Education Commission Chenguang Project, Completed, PI.
 - *2016.08 - 2018.06* China Postdoctoral Science Foundation Funding Project (First-class funding), Completed, PI.
 
-# 🔬 Member of Research Group
+# 🔬 Members of Research Group
 - *2019*
 - *2020*
 - *2021*
