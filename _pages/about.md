@@ -51,7 +51,7 @@ I am interested in <strong>Computer Vision and its applications in the fields of
 # 🔥 News
 <div style="max-height: 36em; overflow-y: auto;">
   <ol style="list-style-type: none;">
-    <li><i>2018.09</i>: &nbsp;🎉🎉🎉 Working in an Associate Professor in School of Communication Electronic Engineering, East China Normal University.</li>
+    <li><i>2018.09</i>: &nbsp;🎉🎉🎉 Working as an Associate Professor in School of Communication Electronic Engineering, East China Normal University.</li>
     <li><i>2016.06</i>: &nbsp;🎉🎉🎉 Postdoctoral Researcher at Shanghai Jiao Tong University, under the supervision of <a href="https://scholar.google.com.hk/citations?user=E6zbSYgAAAAJ&hl=zh-CN">Prof. Guangtao Zhai</a>. </li>
     <li><i>2016.06</i>: &nbsp;🎉🎉🎉 Pursuing Ph.D. in University of Shanghai for Science and Technology, under the supervision of Prof. Baolin Liu. </li>
   </ol>
