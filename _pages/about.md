@@ -456,6 +456,8 @@ I receive Ph.D. degree in College of Control Science and Engineering, Zhejiang U
 - Associate Editor in Chief of the Journal <strong>Intelligence & Robotics<strong>
 - Review Editor in Chief of the SCI Journal <strong>Frontiers in Computational Neuroscience<strong>
 
+<strong>Society Member<strong>
+Director of the Rehabilitation Assistance and Health Promotion Special Committee of the Shanghai Society of Image Graphics; IEEE Senior Member; Senior Member of the China Electronics Society; Member of the Chinese Society of Image Graphics; Member of Shanghai Electronics Society; Member of the Chinese Artificial Intelligence Society; Member of Shanghai Image and Graphics Society; Young member of China Agricultural engineering Society; Member of Shanghai System Simulation Society; Member of China Computer Federation; Member of the China Anti Cancer Association.
 
 # 🔬 Members of Research Group
 - *2019*
