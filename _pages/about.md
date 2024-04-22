@@ -41,7 +41,6 @@ https://www.emojiall.com/zh-hans/all-cate
 I am interested in <strong>Computer Vision and its applications in the fields of Medicine and Agriculture:</strong><br>
 📌 Intelligent Information Processing for Rehabilitation Medicine, e.g., Computer Vision-based Screening for Ophthalmic Diseases.<br>
 📌 Non-contact Physiological Signal Detection, e.g., Camera-based Algorithms for Predicting Respiration, Blood Oxygenation, and Heart Rate, etc.<br>
-📌 GAN-/Diffusion-based AIGC researches, e.g., multi-modal image/video generation, multi-modal human-centric editing and generation, etc.<br>
 
 💬 Feel free to drop me emails ( mhhu@ce.ecnu.edu.cn ) if you have interests on above topics, and remote cooperations are welcomed.<br>
 💬 If you are interested in my research topic and are currently applying for a master's/PhD, feel free to contact me. I have a certain number of master's and PhD positions available annually.<br>
