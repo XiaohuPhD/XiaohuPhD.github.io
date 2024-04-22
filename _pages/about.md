@@ -84,7 +84,7 @@ I am interested in <strong>Computer Vision and its applications in the fields of
    </li>
 <li id="2024-2"> 
    Physiological characteristics inspired hidden human object detection model <a href="https://www.sciencedirect.com/science/article/pii/S0141938223002470">[Paper]</a> <br> 
-   <span style="color:#b02418; font-weight:bold;">Menghan Hu*</span>, Lejing Zhang, <span style="color:#b02418; font-weight:bold;">Bailiang Zhao*</span>, Yunlu Wang, Qingli Li, Lianghui Ding, Yuan Cao<br>
+   <span style="color:#b02418; font-weight:bold;">Menghan Hu*</span>, <span style="color:#b02418; font-weight:bold;">Lejing Zhang*</span>, Bailiang Zhao, Yunlu Wang, Qingli Li, Lianghui Ding, Yuan Cao<br>
    <i><strong>Displays.</strong></i> 2024.
    </li>
 <li id="2024-1"> 
